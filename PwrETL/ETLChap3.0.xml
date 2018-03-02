@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN"
+ "../../dtd/technicalContent/dtd/concept.dtd">
+
+<concept id = "Chapter3.0" xml:lang="en-us">
+	<title>Parent Table Settings</title>
+		<conbody>
+			<p>Once all the fields are filled, the user can click save and move on to the next file or to inserting the columns. The user can scroll down to view what they have saved in the Parent Table Settings, and can click the plus icon next to it, and click add to begin inserting the details of each column. 
+			</p>
+		</conbody>
+</concept>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "../../dtd/technicalContent/dtd/task.dtd">
+
+<task id = "Chapter4.0" xml:lang="en-us">
+	<title>Configuration - Add</title>
+		<shortdesc>Here the user needs to insert details of the first column, then click save, then start inserting details on the second column and so on.
+		</shortdesc>
+		<taskbody>
+			<steps>
+				<step><cmd>Table Name</cmd>
+					<info>The name reflected in this field should be the name of the Database Table in which these columns are going into. This is a read only field
+					</info>
+				</step>
+				
+				<step><cmd>Parent ID</cmd>
+					<info>This field displays the Parent ID that is associated to the table. This is a read only field</info>
+				</step>
+				
+				<step><cmd>Column Name</cmd>
+					<info>The Column Name field as it is named, is to insert the column name that the user would wish to load.</info>
+				</step>
+
+				<step><cmd>Remark</cmd>
+					<info>The user can fill any details about the column in the Remarks field such as its default value.</info>
+
+				</step>
+
+				<step><cmd>Common Default Value</cmd>
+					<info>In the database, there are many columns that do not allow for there to be a null or blank column. As such, we define certain default values in their absence. The Column Default Value field is to specify what value should be entered in the case that there is a null or blank column.</info>
+
+				</step>
+
+				<step><cmd>Column Start Position</cmd>
+					<info>The Column Start Position Field is where the user can input the column number from the Kollect Database, where the data is to be loaded. If it is to be loaded into the first Column of a Database Table, then the value here would be 1. If it is to be loaded into the second Column of a Database Table, the value would then be 2.</info>
+
+				</step>
+
+				<step><cmd>Column End Position</cmd>
+					<info>The Column End Position Field mirrors what was inserted into the Column Start Position Field. If the Column Start Position is 1, then the Column End Position would be 1.</info>
+
+				</step>
+
+				<step><cmd>Column Data Handler</cmd>
+					<info>The Column Data Hander is a dropdown which lists different data handlers that the user could choose from. The data handlers specified here should be the same as the data in the column to be loaded.</info>
+
+				</step>
+
+				<step><cmd>Column Properties</cmd>
+					<info></info>
+
+				</step>
+
+				<step><cmd>Look Up Query</cmd>
+					<info></info>
+
+				</step>
+
+				<step><cmd>Look Insert Query</cmd>
+					<info></info>
+
+				</step>
+
+				<step><cmd>Look Insert Key Query</cmd>
+					<info></info>
+
+				</step>
+
+
+
+			</steps>
+		</taskbody>
+</task>

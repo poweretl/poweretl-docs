@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN"
+ "../../dtd/technicalContent/dtd/concept.dtd">
+
+<concept id = "Chapter4.1" xml:lang="en-us">
+	<title>Table Name</title>
+		<conbody>
+			<p>The name reflected in this field should be the name of the Table in which these columns are going into. This is a read only field</p>
+		</conbody>
+</concept>

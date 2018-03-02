@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN"
+ "../../dtd/technicalContent/dtd/concept.dtd">
+
+<concept id = "Chapter4.2" xml:lang="en-us">
+	<title>Parent ID</title>
+		<conbody>
+			<p>This field displays the Parent ID that is associated to the table. This is a read only field</p>
+		</conbody>
+</concept>

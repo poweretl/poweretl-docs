@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN"
+ "../../dtd/technicalContent/dtd/concept.dtd">
+
+<concept id = "Chapter4.0" xml:lang="en-us">
+	<title>Configuration - Add</title>
+		<conbody>
+			<p>Here the user needs to insert details of the first column, then click save, then start inserting details on the second column and so on.</p>
+		</conbody>
+</concept>

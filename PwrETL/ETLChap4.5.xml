@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN"
+ "../../dtd/technicalContent/dtd/concept.dtd">
+
+<concept id = "Chapter4.5" xml:lang="en-us">
+	<title>Column Default Value</title>
+		<conbody>
+			<p>In the database, there are many columns that do not allow for there to be a null or blank column. As such, we define certain default values in their absence. The Column Default Value field is to specify what value should be entered in the case that there is a null or blank column.</p>
+		</conbody>
+</concept>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN"
+ "../../dtd/technicalContent/dtd/concept.dtd">
+
+<concept id = "Chapter2.4" xml:lang="en-us">
+	<title>Destination Table</title>
+		<conbody>	
+			<p>All data files are eventually loaded into Kollect Database and in this Destination Table field, the user needs to specify the database table where the data will be loaded to.</p>
+		</conbody>
+</concept>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN"
+ "../../dtd/technicalContent/dtd/concept.dtd">
+
+<concept id = "Chapter2.2" xml:lang="en-us">
+	<title>Descriptor File Name</title>
+		<conbody>
+			<p>The Descriptor File Name is for the user to enter the name of the data file in this field, but without numbers or its extension. The value in this field will become the name of the XML file created.</p>
+		</conbody>				
+</concept>

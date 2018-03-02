@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN"
+ "../../dtd/technicalContent/dtd/concept.dtd">
+
+<concept id = "Chapter2.3" xml:lang="en-us">
+	<title>Description</title>
+		<conbody>
+			<p>In this field, the user is expected to fill up a short description of the file that is being loaded.</p>
+		</conbody>
+</concept>

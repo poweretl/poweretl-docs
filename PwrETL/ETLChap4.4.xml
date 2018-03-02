@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN"
+ "../../dtd/technicalContent/dtd/concept.dtd">
+
+<concept id = "Chapter4.4" xml:lang="en-us">
+	<title>Remark</title>
+		<conbody>
+			<p>The user can fill any details about the column in the Remarks field such as its default value.</p>
+		</conbody>
+</concept>

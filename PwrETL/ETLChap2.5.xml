@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN"
+ "../../dtd/technicalContent/dtd/concept.dtd">
+
+<concept id = "Chapter2.5" xml:lang="en-us">
+	<title>Table Sequence Name</title>
+		<conbody>
+			<p>The table sequence name specifies the sequence used to generate Primary Keys. Here, the user is supposed to enter the Database Table Name, followed by _ID. </p>
+		</conbody>
+</concept>
