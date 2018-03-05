@@ -5,6 +5,13 @@
 <concept id = "Chapter2.7" xml:lang="en-us">
 	<title>Column Delimiter</title>
 		<conbody>
+			<fig>
+				<title>General Settings - Column Delimiter</title>
+				<image href="../PwrETL/img/GeneralSettings-ColumnDelimiter.png" placement="inline" height="300" width="450" >
+					<alt>Power ETL</alt>
+				</image>
+			</fig>
+
 			<p>The Column Delimiter dropdown is to specify how the data is separated in the Data File, and it would be either Comma ( , ) or Pipe ( | ) so the user is required to select how the data is separated.</p>
 		</conbody>
 </concept>

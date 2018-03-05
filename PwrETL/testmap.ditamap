@@ -2,7 +2,8 @@
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN"
  "../dtd/technicalContent/dtd/map.dtd">
 <map title = "Kollect PowerETL">
-	topicref href="ETLChap1.0.xml" type="concept"></topicref>
+	<topicref href="ETLChap0.0.xml" type="concept"></topicref>
+	<topicref href="ETLChap1.0.xml" type="concept"></topicref>
 	<topicref href="ETLChap2.0.xml" type="concept">
 		<topicref href="ETLChap2.1.xml" type="concept"></topicref>
 		<topicref href="ETLChap2.2.xml" type="concept"></topicref>
@@ -15,21 +16,20 @@
 		<topicref href="ETLChap2.9.xml" type="concept"></topicref>
 	</topicref>
 	<topicref href="ETLChap3.0.xml" type="concept"></topicref>
-	<topicref href="ETLChap4.0.xml" type="concept">
+	<topicref href="ETLChap4.0.xml" type="concept"><!--
 		<topicref href="ETLChap4.1.xml" type="concept"></topicref>
 		<topicref href="ETLChap4.2.xml" type="concept"></topicref>
 		<topicref href="ETLChap4.3.xml" type="concept"></topicref>
 		<topicref href="ETLChap4.4.xml" type="concept"></topicref>
 		<topicref href="ETLChap4.5.xml" type="concept"></topicref>
-		<topicref href="ETLChap4.6.xml" type="concept"></topicref>
-
-		
-		
-
-
+		<topicref href="ETLChap4.6.xml" type="concept"></topicref>-->
 	</topicref>
+
+
+
+	<!--
 	<topicref href="ETLChap4.0task.xml" type="task"></topicref>
-	<topicref href="ETLChap2.0task.xml" type="task"></topicref>
+	<topicref href="ETLChap2.0task.xml" type="task"></topicref>-->
 
 
 	

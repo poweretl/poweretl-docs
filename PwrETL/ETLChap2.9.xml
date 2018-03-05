@@ -5,6 +5,13 @@
 <concept id = "Chapter2.9" xml:lang="en-us">
 	<title>Include Load Execution</title>
 		<conbody>
+			<fig>
+				<title>General Settings - Include Load Execution</title>
+				<image href="../PwrETL/img/GeneralSettings-IncludeLoadExecution.png" placement="inline" height="300" width="450" >
+					<alt>Power ETL</alt>
+				</image>
+			</fig>
+
 			<p>The user is required to switch this button ON.</p>
 		</conbody>
 </concept>

@@ -5,6 +5,13 @@
 <concept id = "Chapter2.8" xml:lang="en-us">
 	<title>Date Format</title>
 		<conbody>
+			<fig>
+				<title>General Settings - Date Format</title>
+				<image href="../PwrETL/img/GeneralSettings-DateFormat.png" placement="inline" height="300" width="450" >
+					<alt>Power ETL</alt>
+				</image>
+			</fig>
+
 			<p>The Date Format here is to specify how dates are formatted in the data file received from the tenant. Date Format Options are selectable by the drop down menu, however the most commonly used date format is ddMMyyyy.</p>
 		</conbody>
 </concept>

@@ -3,11 +3,19 @@
  "../../dtd/technicalContent/dtd/concept.dtd">
 
 <concept id = "chapter1.0" xml:lang="en-us">
-<title>Kollect PowerETL - 1.0</title>
+<title>Kollect PowerETL Introduction</title>
 	<conbody>
 		<p>KollectValley operates daily for our tenants but how is KollectValley always up to date? This is done by extracting data directly from our tenant’s accounting system and loading it into the Kollect Database. Once the data is loaded into the database, the most up to date information becomes available for our tenants. However, the data structure from the tenants are not the same as the data structure in the Kollect Database. This data would need to be transformed somehow to match Kollect’s data structure and this is achieved by using the Kollect PowerETL.
 		</p>
-		<p>The PowerETL was created for internal use by Kollect to handle this daily data. Data from these tenants which are stored in data files and these data files are Extracted, Transformed and then Loaded into Kollect’s Database. This streamlines the flow of the data from the data files extracted to its entry into Kollect’s Database.
+		<p>The PowerETL was created for internal use by Kollect to handle this daily data. Data from these tenants are stored in data files, and these data files are Extracted, Transformed and then Loaded into Kollect’s Database. This streamlines the flow of the data from the data files extracted to its entry into Kollect’s Database.
 		</p>
+		
+		<fig>
+			<title>Table Settings</title>
+
+			<image href="../PwrETL/img/PowerETL-TableSettings.png" placement="break" scale="50" >
+				<alt>Power ETL</alt>
+			</image>
+		</fig>
 	</conbody>
 </concept>

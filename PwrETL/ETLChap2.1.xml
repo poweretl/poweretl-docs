@@ -5,6 +5,13 @@
 <concept id = "Chapter2.1" xml:lang="en-us">
 	<title>Source File Name</title>
 		<conbody>
+			<fig>
+				<title>General Settings - Source File Name</title>
+				<image href="../PwrETL/img/GeneralSettings-SourceFileName.png" placement="inline" height="300" width="450" >
+					<alt>Power ETL</alt>
+				</image>
+			</fig>
+
 			<p>Insert the Source File Name in full to this field. Also remember to include the extension type of the file, into this field.</p>
 		</conbody>				
 </concept>

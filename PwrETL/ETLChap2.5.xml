@@ -5,6 +5,13 @@
 <concept id = "Chapter2.5" xml:lang="en-us">
 	<title>Table Sequence Name</title>
 		<conbody>
+			<fig>
+				<title>General Settings - Table Sequence Name</title>
+				<image href="../PwrETL/img/GeneralSettings-TableSequenceName.png" placement="inline" height="300" width="450" >
+					<alt>Power ETL</alt>
+				</image>
+			</fig>
+
 			<p>The table sequence name specifies the sequence used to generate Primary Keys. Here, the user is supposed to enter the Database Table Name, followed by _ID. </p>
 		</conbody>
 </concept>

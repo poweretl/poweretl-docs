@@ -5,6 +5,13 @@
 <concept id = "Chapter2.6" xml:lang="en-us">
 	<title>Generated Key</title>
 		<conbody>
+			<fig>
+				<title>General Settings - Generated Key</title>
+				<image href="../PwrETL/img/GeneralSettings-GeneratedKey.png" placement="inline" height="300" width="450" >
+					<alt>Power ETL</alt>
+				</image>
+			</fig>
+
 			<p>The Generated Key specifies the name of the Primary Key column. In Kollect’s Database Tables, the Primary Key Column is always the ID column and as such, this field’s value is always, ID</p>
 		</conbody>
 </concept>
