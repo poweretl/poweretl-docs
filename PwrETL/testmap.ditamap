@@ -4,9 +4,9 @@
 <map title = "Kollect PowerETL">
 	<topicref href="ETLChap0.0.xml" type="concept"></topicref>
 	<topicref href="ETLChap1.0.xml" type="concept"></topicref>
-	<topicref href="ETLChap2.0.xml" type="concept">
-		<topicref href="ETLChap2.1.xml" type="concept"></topicref>
-		<topicref href="ETLChap2.2.xml" type="concept"></topicref>
+	<topicref href="chap2/ETLChap2.0.xml" type="concept">
+		<topicref href="chap2/ETLChap2.1.xml" type="concept"></topicref>
+		<topicref href="chap2/ETLChap2.2.xml" type="concept"></topicref>
 		<topicref href="ETLChap2.3.xml" type="concept"></topicref>
 		<topicref href="ETLChap2.4.xml" type="concept"></topicref>
 		<topicref href="ETLChap2.5.xml" type="concept"></topicref>

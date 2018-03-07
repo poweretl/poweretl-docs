@@ -1,4 +1,11 @@
-set JAVA_HOME=C:\Program Files\Java\jdk1.8.0_151  
+To run DITA OT 2.5.4
 
-To create PDF
-C:/dita-ot-2.5.4/bin/dita -i C:/dita-ot-2.5.4/PwrETL/testmap.ditamap -f pdf
+Step 1
+~Ensure java_home is set
+set JAVA_HOME=C:\Program Files\Java\jdk1.8.0_151
+
+Step 2
+~ To generate the document
+C:/dita-ot-2.5.4/bin/dita -i [C:/filepath/filename] -f [transformation type] -o [outputfolder]
+
+C:/dita-ot-2.5.4/bin/dita -i C:/dita-ot-2.5.4/PwrETL/PowerETL-Documentation.ditamap -f pdf
