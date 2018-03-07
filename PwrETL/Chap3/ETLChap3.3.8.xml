@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN"
+ "../../dtd/technicalContent/dtd/concept.dtd">
+
+<concept id = "Chapter3.3.8" xml:lang="en-us">
+	<title>Column Data Handler</title>
+		<conbody>
+			<fig>
+				<title>Add - Column Data Handler</title>
+				<image href="../img/Add-ColumnDataHandler.png" placement="inline" height="400" width="600">
+					<alt>Power ETL</alt>
+				</image>
+			</fig>
+			
+			<p>The Column Data Hander is a dropdown which lists different data handlers that the user could choose from. The user can choose between Long Handler, String Handler, Default Date Handler, Integer Handler, YN Boolean Handler, Currency Handler and Pass Through Handler however, the data handler selected here should match the data in the column to be loaded.</p>
+		</conbody>
+</concept>

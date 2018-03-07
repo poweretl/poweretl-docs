@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN"
+ "../../dtd/technicalContent/dtd/concept.dtd">
+
+<concept id = "Chapter3.3.3" xml:lang="en-us">
+	<title>Column Name</title>
+		<conbody>
+			<fig>
+				<title>Add - Column Name</title>
+				<image href="../img/Add-ColumnName.png" placement="inline" height="400" width="600">
+					<alt>Power ETL</alt>
+				</image>
+			</fig>
+
+			<p>The Column Name field as it is named, is to insert the column name that the user would wish to load.</p>
+
+			<p>Eg: invoice_date</p>
+		</conbody>
+</concept>

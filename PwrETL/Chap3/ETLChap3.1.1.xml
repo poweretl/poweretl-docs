@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN"
+ "../../dtd/technicalContent/dtd/concept.dtd">
+
+<concept id = "Chapter3.1.1" xml:lang="en-us">
+	<title>Source File Name</title>
+		<conbody>
+			<fig>
+				<title>General Settings - Source File Name</title>
+				<image href="../img/GeneralSettings-SourceFileName.png" placement="inline" height="300" width="450" >
+					<alt>Power ETL</alt>
+				</image>
+			</fig>
+
+			<p>Insert the Source File Name in full to this field. Also remember to include the extension type of the file, into this field.</p>
+			<p>Eg: Transactions_1234.CSV</p>
+		</conbody>				
+</concept>

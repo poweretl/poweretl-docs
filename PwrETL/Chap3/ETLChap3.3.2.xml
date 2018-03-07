@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN"
+ "../../dtd/technicalContent/dtd/concept.dtd">
+
+<concept id = "Chapter3.3.2" xml:lang="en-us">
+	<title>Parent ID</title>
+		<conbody>
+			<fig>
+				<title>Add - Parent ID</title>
+				<image href="../img/Add-ParentID.png" placement="inline" height="400" width="600">
+					<alt>Power ETL</alt>
+				</image>
+			</fig>
+
+			<p>This field displays the Parent ID that is associated to the table. This is a read only field</p>
+		</conbody>
+</concept>

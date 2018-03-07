@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN"
+ "../../dtd/technicalContent/dtd/concept.dtd">
+
+<concept id = "Chapter3.3.9" xml:lang="en-us">
+	<title>Column Properties</title>
+		<conbody>
+			<fig>
+				<title>Add - Column Properties</title>
+				<image href="../img/Add-ColumnProperties.png" placement="inline" height="400" width="600">
+					<alt>Power ETL</alt>
+				</image>
+			</fig>
+			
+			<p></p>
+		</conbody>
+</concept>

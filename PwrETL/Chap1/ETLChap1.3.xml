@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN"
+ "../../dtd/technicalContent/dtd/concept.dtd">
+
+<concept id = "Chapter1.3" xml:lang="en-us">
+	<title>Email Settings</title>
+		<conbody>
+			<fig>
+				<title>Email Settings</title>
+				<image href="../img/AdminPanel-EmailSettings2.png" placement="inline" height="450" width="450">
+					<alt>Power ETL</alt>
+				</image>
+			</fig>
+			
+			<p>Email Configuration Properties is where the administrator can assign an email address for messages to go out from the PowerETL. When a batch is loaded with no issues, an email is sent to addresses in the ‘Email Recipient’ column, stating that the loading has successfully occurred. Alternatively, if there are any errors in the loading process, a message will also be sent to the registered email address stating that there was an error in the loading process. This allows the administrator with an assurance that they will recieve an update from the PowerETL especially if there was an issue with the loading process.</p>
+		</conbody>
+</concept>

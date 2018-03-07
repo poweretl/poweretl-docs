@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN"
+ "../../dtd/technicalContent/dtd/concept.dtd">
+
+<concept id = "Chapter3.2.0" xml:lang="en-us">
+	<title>Parent Table Settings</title>
+		<conbody>
+			<fig>
+				<title>Parent Table Settings</title>
+				<image href="../img/ParentTableSettings.png" placement="inline" height="450" width="450" >
+					<alt>Power ETL</alt>
+				</image>
+			</fig>
+
+			<p>Once all the fields are filled, the user can click save and move on to the next file or to inserting the columns. The user can scroll down to view what they have saved in the Parent Table Settings. In this table, users are also given a list of actions that can be taken. These actions are Edit, Add Fields, Preview DC Configuration File and lastly, Download DC Configuration File. To continue the loading process, users can click the plus(Add) icon to begin inserting the details of each column. To find the desired table, a user can also enter a search term in the search bar on the top right of the table to find the desired table to insert.
+			</p>
+
+			<fig>
+				<title>Parent Table Settings - Actions</title>
+				<image href="../img/ParentTableSettings-Actions.png" placement="inline" height="450" width="450" >
+					<alt>Power ETL</alt>
+				</image>
+			</fig>
+		</conbody>
+</concept>

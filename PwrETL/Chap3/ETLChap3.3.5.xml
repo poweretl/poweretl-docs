@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN"
+ "../../dtd/technicalContent/dtd/concept.dtd">
+
+<concept id = "Chapter3.3.5" xml:lang="en-us">
+	<title>Column Default Value</title>
+		<conbody>
+			<fig>
+				<title>Add - Column Default Value</title>
+				<image href="../img/Add-ColumnDefaultValue.png" placement="inline" height="400" width="600">
+					<alt>Power ETL</alt>
+				</image>
+			</fig>
+
+			<p>In the database, there are many columns that do not allow for there to be a null or blank column. As such, we define certain default values in their absence. The Column Default Value field is to specify what value should be entered in the event that there is a null or blank column.</p>
+
+			<p>Eg: current_date</p>
+		</conbody>
+</concept>

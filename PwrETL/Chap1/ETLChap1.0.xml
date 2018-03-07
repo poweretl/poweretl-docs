@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN"
+ "../../dtd/technicalContent/dtd/concept.dtd">
+
+<concept id = "Chapter1.0" xml:lang="en-us">
+	<title>Admin Panel</title>
+		<conbody>
+			<!--
+			<fig>
+				<title></title>
+				<image href="../PwrETL/img/PowerETL-TableSettings.png" placement="break" scale="50" >
+					<alt>Power ETL</alt>
+				</image>
+			</fig>
+			-->
+			
+			<p>The Admin Panel is a module the administrator can access to make changes to the PowerETL or to its users. The administrator is given a wide array of settings that can be adjusted or tweaked. The settings given to the administrator include User Management, Secure File Transfer Protocol (SFTP) Settings, Email Settings, Database Settings and Settings for Automated jobs by the host.</p>
+		</conbody>
+</concept>
+

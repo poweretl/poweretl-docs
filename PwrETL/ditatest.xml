@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN"
+ "../../dtd/technicalContent/dtd/concept.dtd">
+
+<concept id = "POWERETLv1.0" xml:lang="en-us">
+<title>Kollect PowerETL</title>
+	<shortdesc>chapter1</shortdesc>
+		<conbody>
+			<p>KollectValley operates daily for our tenants but how is KollectValley always up to date? This is done by extracting data directly from our tenant’s accounting system and loading it into the Kollect Database. Once the data is loaded into the database, the most up to date information becomes available for our tenants. However, the data structure from the tenants are not the same as the data structure in the Kollect Database. This data would need to be transformed somehow to match Kollect’s data structure and this is achieved by using the Kollect PowerETL. </p>
+		</conbody>
+</concept>

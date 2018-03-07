@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN"
+ "../../dtd/technicalContent/dtd/concept.dtd">
+
+<concept id = "Chapter3.1.0" xml:lang="en-us">
+	<title>Table Settings - General Configuration Properties</title>
+		<conbody>
+			<p>This section is for users to insert information about the data file that is to be loaded. Most of these files will come as CSV (Comma Separated Values) or PSV (Pipe Separated Values) files, both of which consist of rows and columns, just like an Excel file. Information about the data file and then its columns need to be recorded and below is the method for inserting the initial information about the data file itself.
+			</p>
+
+			<fig>
+				<title>Table Settings</title>
+				<image href="../img/GeneralSettings.png" placement="inline" height="300" width="450">
+					<alt>Power ETL</alt>
+				</image>
+			</fig>
+		</conbody>
+</concept>

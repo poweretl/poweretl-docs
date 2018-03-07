@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN"
+ "../../dtd/technicalContent/dtd/concept.dtd">
+
+<concept id = "Chapter3.1.7" xml:lang="en-us">
+	<title>Column Delimiter</title>
+		<conbody>
+			<fig>
+				<title>General Settings - Column Delimiter</title>
+				<image href="../img/GeneralSettings-ColumnDelimiter.png" placement="inline" height="300" width="450" >
+					<alt>Power ETL</alt>
+				</image>
+			</fig>
+
+			<p>The Column Delimiter dropdown is to specify how the data is separated in the Data File, and it would be either Comma ( , ) or Pipe ( | ) so the user is required to select from the dropdown menu, how to expect the data to be separated.</p>
+		</conbody>
+</concept>

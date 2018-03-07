@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN"
+ "../../dtd/technicalContent/dtd/concept.dtd">
+
+<concept id = "Chapter3.4.0" xml:lang="en-us">
+	<title>Configuration Table</title>
+		<conbody>
+			<fig>
+				<title>Configuration Table</title>
+				<image href="../img/ConfigurationTable.png" placement="inline" height="200" width="450"  >
+					<alt>Power ETL</alt>
+				</image>
+			</fig>
+
+			<p>Once all the column details are entered into their respective fields, the user can click save and view the column that was just saved in the Configuration Table. Here the user can keep adding column and will eventually see a list of the columns like the figure above. Users can Copy the Column Details, create a CSV File with of the Column Details, or just print out the table. The user can also use the search function to find a column, and to change any details, the user can click the edit button on the end of each row and the user will be taken back to the Configuration-Add screen to re-enter or edit the column details.</p>
+		</conbody>
+</concept>

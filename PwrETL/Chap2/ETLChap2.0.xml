@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN"
+ "../../dtd/technicalContent/dtd/concept.dtd">
+
+<concept id = "Chapter2.0" xml:lang="en-us">
+	<title>Data Visualizer</title>
+		<conbody>
+			<fig>
+				<title>Data Visualizer - Viewer</title>
+				<image href="../img/DataVisualizer-Viewer.png" placement="inline" height="450" width="450">
+					<alt>Power ETL</alt>
+				</image>
+			</fig>
+			
+			<p>This function is for users to view CSV file formats, but to have each column separated by its Separator Value. The user can upload only a CSV file and its contents will be displayed below. The user will receive an error message if a non CSV file is uploaded. Files uploaded here are only for viewing and do not affect any loading processes, however the user can either download a copy of the CSV file, copy the contents to the clipboard or even print out the details that are displayed.</p>
+
+			<fig>
+				<title>Data Visualizer - Viewer error message</title>
+				<image href="../img/DataVisualizer-ViewerError.png" placement="inline" height="450" width="450">
+					<alt>Power ETL</alt>
+				</image>
+			</fig>
+		</conbody>
+</concept>

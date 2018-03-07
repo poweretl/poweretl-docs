@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN"
+ "../../dtd/technicalContent/dtd/concept.dtd">
+
+<concept id = "Chapter1.2" xml:lang="en-us">
+	<title>SFTP Settings</title>
+		<conbody>
+			<fig>
+				<title>SFTP Settings</title>
+				<image href="../img/AdminPanel-SFTPSettings.png" placement="inline" height="450" width="450">
+					<alt>Power ETL</alt>
+				</image>
+			</fig>
+			
+			<p>In the SFTP Settings section, the administrator defines the server name, port number and directories for Secured File Transfer Protocol.</p>
+		</conbody>
+</concept>

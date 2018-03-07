@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN"
+ "../../dtd/technicalContent/dtd/concept.dtd">
+
+<concept id = "Chapter1.1" xml:lang="en-us">
+	<title>User Management</title>
+		<conbody>
+			<fig>
+				<title>User Management</title>
+				<image href="../img/AdminPanel-UserManagement.png" placement="inline" height="450" width="450">
+					<alt>Power ETL</alt>
+				</image>
+			</fig>
+			
+			<p>The User Management page is a section for administrators to either view, add, edit or remove users who have access to the PowerETL. On the left side of the page, the administrator can Create or Edit details of a user. The administrator can also define the role of the users between a regular user and an administrator, and define the tenants that they are working on. On the right side of the page, there is a table that displays all the registered users First Name, and their Email Addresses. The administrator can also click edit in the Actions column to edit details of a user that is already registered.</p>
+		</conbody>
+</concept>

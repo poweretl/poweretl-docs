@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN"
+ "../../dtd/technicalContent/dtd/concept.dtd">
+
+<concept id = "Chapter5.4" xml:lang="en-us">
+	<title>Batches - Age Vendor Invoice</title>
+		<conbody>
+			<fig>
+				<title>Batches - Age Vendor Invoice</title>
+				<image href="../img/Batches-AgeVendorInvoice.png" placement="inline" height="450" width="450">
+					<alt>Power ETL</alt>
+				</image>
+			</fig>
+			<p></p>
+		</conbody>
+</concept>

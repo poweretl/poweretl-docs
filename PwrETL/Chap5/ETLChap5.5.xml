@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN"
+ "../../dtd/technicalContent/dtd/concept.dtd">
+
+<concept id = "Chapter5.5" xml:lang="en-us">
+	<title>Batches - Lump Sum Payment</title>
+		<conbody>
+			<fig>
+				<title>Batches - Lump Sum Payment</title>
+				<image href="../img/Batches-LumpSumPayment.png" placement="inline" height="450" width="450">
+					<alt>Power ETL</alt>
+				</image>
+			</fig>
+			<p>Calculates and updates lump sum payment in the Kollect Database</p>
+		</conbody>
+</concept>

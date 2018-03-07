@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN"
+ "../../dtd/technicalContent/dtd/concept.dtd">
+
+<concept id = "Chapter3.3.10" xml:lang="en-us">
+	<title>Look Up Query</title>
+		<conbody>
+			<fig>
+				<title>Add - Look Up Query</title>
+				<image href="../img/Add-LookUpQuery.png" placement="inline" height="400" width="600">
+					<alt>Power ETL</alt>
+				</image>
+			</fig>
+			
+			<p>A user can define the relationship between a column and a column from another table. The query should be entered in here.</p>
+		</conbody>
+</concept>

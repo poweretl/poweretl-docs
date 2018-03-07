@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN"
+ "../../dtd/technicalContent/dtd/concept.dtd">
+
+<concept id = "Chapter5.0" xml:lang="en-us">
+	<title>Batches</title>
+		<conbody>
+			<fig>
+				<title>All Batches</title>
+				<image href="../img/Batches-AllBatches.png" placement="inline" height="450" width="450">
+					<alt>Power ETL</alt>
+				</image>
+			</fig>
+			
+			<p>In this module, a user can run batches ad-hoc. Each of the batches has a Run Batch button on the end of each row that the user can click, and the batch will perform and an output will be displayed alerting the user as to how many records were updated.</p>
+		</conbody>
+</concept>

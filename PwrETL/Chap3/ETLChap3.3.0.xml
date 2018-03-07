@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN"
+ "../../dtd/technicalContent/dtd/concept.dtd">
+
+<concept id = "Chapter3.3.0" xml:lang="en-us">
+	<title>Configuration - Add</title>
+		<conbody>
+			<fig>
+				<title>Configuration Page</title>
+				<image href="../img/Configuration-Add2.png" placement="inline" scale="45" >
+					<alt>Power ETL</alt>
+				</image>
+			</fig>
+
+			<p>Once the user has completed entering the details of the data file, and has selected to add details to the user's entry in the Parent Table Settings, Then the user is taken to a new page to continue inserting information about the data file. Here the user needs to insert details of each individual column starting with the first column, then click save, then start inserting details on the second column and so on. This is done until all the columns are inserted in the Add section in the top of the figure, and once inserted, it can be viewed on the bottom of the figure in the Configuration Table.</p>
+		</conbody>
+</concept>
+
+
+<!--height="400" width="900"-->
